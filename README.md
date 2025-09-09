@@ -40,7 +40,7 @@ Demonstrar a aplicação prática de algoritmos genéticos na resolução de pro
 
 1. **Clone ou baixe o repositório:**
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Gads1208/ACQA_algoritmos_geneticos.git
 cd algoritmo-genetico-equacoes
 ```
 
